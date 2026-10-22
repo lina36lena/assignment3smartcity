@@ -1,0 +1,5 @@
+* text=auto
+*.java text eol=lf
+*.sh text eol=lf
+*.csv text eol=lf
+*.svg text eol=lf
